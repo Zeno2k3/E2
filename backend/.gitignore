@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/uploads/*
+data/faiss/*
+!data/uploads/.gitkeep
+!data/faiss/.gitkeep
+.pytest_cache/
+.ruff_cache/
+pip-install.log
